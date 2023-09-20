@@ -13,6 +13,6 @@ This time the Remote Control Tower uses 4 paper clips as touch buttons, a WS2812
 
 Test vedio：
 
-[![Remote Control Tower](https://i.ytimg.com/vi/wbtB8Lw2O9k/maxresdefault.jpg)](https://youtu.be/wbtB8Lw2O9k "Remote Control Tower")
+[![Remote Control Tower](https://res.cloudinary.com/marcomontalbano/image/upload/v1695181803/video_to_markdown/images/youtube--wbtB8Lw2O9k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/wbtB8Lw2O9k "Remote Control Tower")
 
 https://maker.wiznet.io/gavinchang/projects/remote-control-tower%3A-control-infrared-devices-by-siri-poe-pico%EF%BC%89/
